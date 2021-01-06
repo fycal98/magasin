@@ -14,6 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-x-special/nautilus-clipboard
-copy
-mtp://LGE_LG-M700_LGM70043189618/M%C3%A9moire%20interne/Capture+/Capture+_2021-01-06-19-50-10.png
+![Capture+_2021-01-06-19-50-10](https://user-images.githubusercontent.com/76747520/103810095-ed183f00-505a-11eb-86e4-4323767ef26e.png)
